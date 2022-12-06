@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blog",
+        "prod_uri":"mysql://root:@localhost/blog",
+        "fb_url":"https://facebook.com/blog",
+        "tw_url":"https://twitter.com/blog",
+        "gh_url":"https://github.com/blog",
+        "blog_name":"Clean Blog",
+        "gmail_user":"20cs39@cit.edu.in",
+        "gmail_password":"cit202011",
+        "about_text":"Hi i am Hema... this is my blog creation",
+        "no_of_posts":4,
+        "login_image":"login.svg",
+        "admin_user":"hema",
+        "admin_password":"1304",
+        "upload_location":"E:\\Flask\\static"
+
+    }
+}
